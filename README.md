@@ -41,7 +41,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi di lokal Anda:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/dwiprayoga10/poloklinik-app.git
+git clone https://github.com/Argadwi99/poliklinik-app.git
 cd poloklinik-app
 ```
 
